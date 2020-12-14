@@ -1,6 +1,6 @@
 # node-notes-app
 
-In this web app you can add notes and sve it forever
+In this web app you can see news
 ## Installations 
 
  - First clone this repo
