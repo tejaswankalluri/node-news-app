@@ -1,0 +1,4 @@
+/node_modules
+.env
+contries.xlsx
+~$contries.xlsx

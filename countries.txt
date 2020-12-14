@@ -1,0 +1,107 @@
+AE  United Arab Emirates
+Argentina
+Austria
+Australia
+Belgium
+Bulgaria
+Brazil
+Canada
+Switzerland
+China
+Colombia
+Cuba
+Czechia
+Germany
+Egypt
+France
+United Kingdom of Great Britain and Northern Ireland
+Greece
+Hong Kong
+Hungary
+Indonesia
+Ireland
+Israel
+India
+Italy
+Japan
+Korea (the Republic of Korea)
+Lithuania
+Latvia
+Morocco
+Mexico
+Malaysia
+Nigeria
+Netherlands
+Norway
+New Zealand
+Philippines
+Poland
+Portugal
+Romania
+Serbia
+Russian Federation
+Saudi Arabia
+Sweden
+Singapore
+Slovenia
+Slovakia
+Thailand
+Turkey
+Taiwan
+Ukraine
+United States of America
+Venezuela
+South Africa
+AR
+AT
+AU
+BE
+BG
+BR
+CA
+CH
+CN
+CO
+CU
+CZ
+DE
+EG
+FR
+GB
+GR
+HK
+HU
+ID
+IE
+IL
+IN
+IT
+JP
+KR
+LT
+LV
+MA
+MX
+MY
+NG
+NL
+NO
+NZ
+PH
+PL
+PT
+RO
+RS
+RU
+SA
+SE
+SG
+SI
+SK
+TH
+TR
+TW
+UA
+US
+VE
+ZA
