@@ -1,4 +1,4 @@
-# node-notes-app
+# node-news-app
 
 In this web app you can see news
 ## Installations 
